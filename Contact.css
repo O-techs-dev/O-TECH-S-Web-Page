@@ -9,7 +9,7 @@ body{
 }
  
 section{ 
-   postion: relative;
+  postion: relative;
     min-height: 400px;
     background: url(Image/headway-5QgIuuBxKwM-unsplash.jpg);
     background-position: center;
@@ -99,11 +99,11 @@ span{
 }
    
 section{
-      color: white;
+       color: white;
     text-align: center;
     font-size: 200%;
     letter-spacing: 2px;
-    padding: 23px;  
+    padding: 23px;     
      
 }
 
@@ -114,17 +114,9 @@ section{
     letter-spacing: 4px;
     font-weight: bold;
 }
-.Image{
-    position: absolute;
-    border: none;
-    border-radius: 40%;
-    width: 130px;
-    top: 0%;
-    left: 18%;
-    padding: 30px;
-}
+ 
 .content{
-  color: red;
+ color: red;
     text-align: left;
     right: 0%;
     font-size: 60%;
@@ -132,7 +124,7 @@ section{
     margin-top: 50px;
 }
 .main-content{
-   color: white;
+color: white;
 font-size: meduim;
 font-weight: bold;
 letter-spacing: normal;
@@ -143,15 +135,15 @@ text-align: left;
  }
  .click{
     line-height: 1;
-    font-size: 70%;
+    font-size: 100%;
     font-weight: bold;
     color: red;
  } 
 .Contact{
-    font-size: 50%;
+    font-size: 70%;
 }
 .icon{
-    width: 10%;
+    width: 15%;
     position: relative;
     left: 30%;   
 }
