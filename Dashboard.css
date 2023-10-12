@@ -98,36 +98,36 @@ section{
 section{
     color: white;
     text-align: center;
-    font-size: 300%;
+    font-size: 150%;
     letter-spacing: 2px;
     padding: 23px;   
 }
 .motto {
-    font-size: 30%;
+    font-size: 10%;
     color: rgb(119, 196, 196);
     font-family: 'Ballet', sans-serif;
-    letter-spacing: 10px;
+    letter-spacing: 4px;
     font-weight: bold;
 }
 .content{
-    color: white;
+    color: red;
     text-align: left;
     right: 0%;
-    font-size: 70%;
+    font-size: 60%;
     font-weight: bold;
     margin-top: 50px;
 }
 .main-content{
-color: black;
-font-size: large;
+color: white;
+font-size: meduim;
 font-weight: bold;
 letter-spacing: normal;
 text-align: left;
 }
 .end{
     line-height: normal;
-    color: white;
-    font-size: large;
+    color: red;
+    font-size: meduim;
 font-weight: bold;
 letter-spacing: normal;
 text-align: left;
