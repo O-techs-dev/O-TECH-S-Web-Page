@@ -87,7 +87,7 @@ span{
 }
 section{ 
     position: relative;
-    min-height: 650px;
+    min-height: 750px;
     background: url(Image/gig.jpg);
     background-position: center;
     background-size: cover;
