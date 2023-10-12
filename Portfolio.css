@@ -126,7 +126,15 @@ font-weight: bold;
 letter-spacing: normal;
 text-align: left;
 }
- p{
+p{
     line-height: normal;
+}
+.end{
+    line-height: normal;
+    color: red;
+    font-size: meduim;
+font-weight: bold;
+letter-spacing: normal;
+text-align: left;
  }
- 
+     
