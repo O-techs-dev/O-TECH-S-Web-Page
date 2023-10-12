@@ -4,13 +4,15 @@
     box-sizing: border-box;
     font-family: 'Ballet', sans-serif;
 }
- 
+ body{
+     font-size: 50%;
+ }
 section{ 
     postion: relative;
     min-height: 400px;
     background: url(Image/headway-5QgIuuBxKwM-unsplash.jpg);
     background-position: center;
-    background-size: 70% 50%;
+    background-size: 90% 40%;
     transition: 0.5s;
     filter: brightness(100%);   
 }
