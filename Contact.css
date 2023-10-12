@@ -4,13 +4,16 @@
     box-sizing: border-box;
     font-family: 'Ballet', sans-serif;
 }
+body{
+    font-size: 70%;
+}
  
 section{ 
-    min-height: 100vh;
+   postion: relative;
+    min-height: 400px;
     background: url(Image/headway-5QgIuuBxKwM-unsplash.jpg);
     background-position: center;
-    background-size: 100% 100%;
-     background-repeat: no-repeat;
+    background-size: 100% 40%;
     transition: 0.5s;
     filter: brightness(100%);   
 }
@@ -96,19 +99,19 @@ span{
 }
    
 section{
-    color: white;
+      color: white;
     text-align: center;
-    font-size: 300%;
+    font-size: 200%;
     letter-spacing: 2px;
-    padding: 23px;   
+    padding: 23px;  
      
 }
 
 .motto {
-    font-size: 30%;
+    font-size: 10%;
     color: rgb(119, 196, 196);
     font-family: 'Ballet', sans-serif;
-    letter-spacing: 10px;
+    letter-spacing: 4px;
     font-weight: bold;
 }
 .Image{
@@ -121,31 +124,31 @@ section{
     padding: 30px;
 }
 .content{
-    color: white;
+  color: red;
     text-align: left;
     right: 0%;
-    font-size: 70%;
+    font-size: 60%;
     font-weight: bold;
     margin-top: 50px;
 }
 .main-content{
-    color: black;
-    font-size: large;
-    font-weight: bold;
-    letter-spacing: normal;
-    text-align: left;
+   color: white;
+font-size: meduim;
+font-weight: bold;
+letter-spacing: normal;
+text-align: left;
 }
  p{
     line-height: normal;
  }
  .click{
     line-height: 1;
-    font-size: 100%;
+    font-size: 70%;
     font-weight: bold;
     color: red;
  } 
 .Contact{
-    font-size: 70%;
+    font-size: 50%;
 }
 .icon{
     width: 10%;
