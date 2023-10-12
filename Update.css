@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ballet', sans-serif;
+}
+ 
+section{ 
+    min-height: 100vh;
+    background: url(Image/headway-5QgIuuBxKwM-unsplash.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+     background-repeat: no-repeat;
+    transition: 0.5s;
+    filter: brightness(100%);   
+}
+#check:checked ~ section{
+    transform: scale(1.2);
+    filter: brightness(50%);
+}
+.container{
+    height: 100%;
+    width: 250px;
+    position: absolute;
+    background: #161616;
+    z-index: 1;
+    transition: 0.5s ease;
+    transform: translatex(-250px);
+    }
+.container .head{
+        color: white;
+        font-size: 30px;
+        font-weight: bold;
+        padding: 30px;
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 3px;
+        background: linear-gradient(30deg,red,rgb(175, 166, 166)); 
+}
+ol{
+        width: 100%;
+        list-style: none;
+}
+ol li{
+        display: block;
+        width: 100%;
+}
+ol li a{
+        color: #fbfdce;
+        padding: 15px 10px;
+        text-decoration: none;
+        display: block;
+        letter-spacing: 1px;
+        font-size: 20px;
+        position: relative;
+        transition: 0.3s;
+        overflow: hidden;
+        text-transform: capitalize;
+        
+}
+ol li a i{
+        width: 70px;
+        font-size: 25px;
+        text-align: center;
+        padding-left: 30px;
+        cursor: pointer;
+}
+ol li:hover a{
+        background: bisque;
+        color: purple;
+        letter-spacing: 5px;    
+}
+input{
+        visibility: hidden;
+        display: none;
+}
+span{
+        position: absolute;
+        right: -40px;
+        top: 30px;
+        font-size: 25px;
+        border-radius: 3px;
+        color: white;
+        padding: 3px 8px;
+        cursor: pointer;
+        background: #000;
+}
+#bars{
+        background: red;
+}
+#check:checked ~ .container{
+        transform: translateX(0);
+}
+    #check:checked ~ .container #bars{
+        display: none;
+}
+   
+section{
+    color: white;
+    text-align: center;
+    font-size: 300%;
+    letter-spacing: 2px;
+    padding: 23px;   
+     
+}
+
+.motto {
+    font-size: 30%;
+    color: rgb(119, 196, 196);
+    font-family: 'Ballet', sans-serif;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+.Image{
+    position: absolute;
+    border: none;
+    border-radius: 40%;
+    width: 130px;
+    top: 0%;
+    left: 18%;
+    padding: 30px;
+}
+.content{
+    color: red;
+    text-align: left;
+    right: 0%;
+    font-size: 70%;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.main-content{
+color: black;
+font-size: large;
+font-weight: bold;
+letter-spacing: normal;
+text-align: left;
+}
+.end{
+        line-height: normal;
+        color: white;
+        font-size: large;
+    font-weight: bold;
+    letter-spacing: normal;
+    text-align: left;
+     }
+ 
