@@ -7,6 +7,7 @@
 }
 body{
     font-size: 50%;
+    overflow: hidden;
 }
 .container{
 height: 100%;
@@ -85,7 +86,8 @@ span{
     display: none;
 }
 section{ 
-    min-height: 100vh;
+    position: relative;
+    min-height: 500px;
     background: url(Image/gig.jpg);
     background-position: center;
     background-size: cover;
@@ -101,7 +103,7 @@ section{
 section{
     color: white;
     text-align: center;
-    font-size: 300%;
+    font-size: 200%;
     letter-spacing: 5px;
     padding: 23px;
      
