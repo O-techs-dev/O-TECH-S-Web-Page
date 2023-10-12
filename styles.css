@@ -87,7 +87,7 @@ span{
 }
 section{ 
     position: relative;
-    min-height: 500px;
+    min-height: 600px;
     background: url(Image/gig.jpg);
     background-position: center;
     background-size: cover;
@@ -129,7 +129,7 @@ footer{
     bottom: 0;
     left: 0;
     width: 100%;
-    font-size: 20%;
+    font-size: 50%;
     color: rgb(212, 14, 14);
     padding: 20px;
     text-align: center;
