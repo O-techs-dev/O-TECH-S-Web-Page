@@ -10,7 +10,7 @@ section{
     min-height: 400px;
     background: url(Image/headway-5QgIuuBxKwM-unsplash.jpg);
     background-position: center;
-    background-size: 100% 50%;
+    background-size: 70% 50%;
     transition: 0.5s;
     filter: brightness(100%);   
 }
@@ -101,16 +101,6 @@ section{
     font-size: 300%;
     letter-spacing: 2px;
     padding: 23px;   
-     
-}
-.Image{
-    position: absolute;
-    border: none;
-    border-radius: 40%;
-    width: 130px;
-    top: 0%;
-    left: 18%;
-    padding: 30px;
 }
 .motto {
     font-size: 30%;
