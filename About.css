@@ -121,7 +121,7 @@ section{
 }
 .main-content{
 color: white;
-font-size: meduim;
+font-size: smaller;
 font-weight: bold;
 letter-spacing: normal;
 text-align: left;
@@ -129,7 +129,7 @@ text-align: left;
 .end{
     line-height: normal;
     color: red;
-    font-size: meduim;
+    font-size: smaller;
 font-weight: bold;
 letter-spacing: normal;
 text-align: left;
