@@ -5,7 +5,7 @@
     font-family: 'Ballet', sans-serif;
 }
  body{
-     font-size: 70%;
+     font-size: 50%;
  }
 section{ 
     postion: relative;
@@ -115,13 +115,13 @@ section{
     color: red;
     text-align: left;
     right: 0%;
-    font-size: 60%;
+    font-size: 70%;
     font-weight: bold;
     margin-top: 50px;
 }
 .main-content{
 color: white;
-font-size: meduim;
+font-size: smaller;
 font-weight: bold;
 letter-spacing: normal;
 text-align: left;
@@ -142,7 +142,7 @@ text-align: left;
 .icon{
     width: 10%;
     position: relative;
-    left: 20%;   
+    left: 25%;   
 }
 .icon:hover {
     
