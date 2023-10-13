@@ -133,7 +133,7 @@ text-align: left;
  .click{
     line-height: 1;
     font-size: 150%;
-    font-weight: bold;
+    font-weight: 150%;
     color: red;
  } 
 .Contact{
