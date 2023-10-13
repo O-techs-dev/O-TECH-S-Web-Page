@@ -126,7 +126,22 @@ font-weight: bold;
 letter-spacing: normal;
 text-align: left;
 }
-.end{
+.conten{
+    color: red;
+    text-align: left;
+    right: 0%;
+    font-size: 60%;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.main-conten{
+color: white;
+font-size: smaller;
+font-weight: bold;
+letter-spacing: normal;
+text-align: left;
+}
+.ending{
     line-height: normal;
     color: red;
     font-size: smaller;
