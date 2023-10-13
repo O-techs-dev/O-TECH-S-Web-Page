@@ -5,7 +5,7 @@
     font-family: 'Ballet', sans-serif;
 }
 body{
-    font-size: 70%;
+    font-size: 60%;
 }
  
 section{ 
@@ -99,7 +99,7 @@ span{
 }
    
 section{
-       color: white;
+       color: red;
     text-align: center;
     font-size: 200%;
     letter-spacing: 2px;
