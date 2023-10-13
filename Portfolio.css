@@ -126,9 +126,6 @@ font-weight: bold;
 letter-spacing: normal;
 text-align: left;
 }
-p{
-    line-height: normal;
-}
 .end{
     line-height: normal;
     color: red;
