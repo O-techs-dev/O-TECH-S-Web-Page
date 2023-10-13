@@ -100,12 +100,12 @@ section{
 section{
     color: white;
     text-align: center;
-    font-size: 200%;
+    font-size: 250%;
     letter-spacing: 2px;
     padding: 23px;   
 }
 .motto {
-    font-size: 10%;
+    font-size: 15%;
     color: rgb(119, 196, 196);
     font-family: 'Ballet', sans-serif;
     letter-spacing: 4px;
@@ -115,7 +115,7 @@ section{
     color: red;
     text-align: left;
     right: 0%;
-    font-size: 70%;
+    font-size: 80%;
     font-weight: bold;
     margin-top: 50px;
 }
