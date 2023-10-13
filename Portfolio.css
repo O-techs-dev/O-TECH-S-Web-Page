@@ -5,7 +5,7 @@
     font-family: 'Ballet', sans-serif;
 }
  body{
-     font-size: 70%;
+     font-size: 50%;
  }
 section{ 
     postion: relative;
@@ -115,7 +115,7 @@ section{
     color: red;
     text-align: left;
     right: 0%;
-    font-size: 60%;
+    font-size: 70%;
     font-weight: bold;
     margin-top: 50px;
 }
@@ -126,8 +126,7 @@ font-weight: bold;
 letter-spacing: normal;
 text-align: left;
 }
-p{
-    line-height:1;
-}
+ p{
+    line-height: normal;
+ }
  
-     
