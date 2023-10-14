@@ -126,6 +126,16 @@ p{
     letter-spacing: 4px;
     font-weight: bold;
 }
+.icon{
+    width: 5%;
+    position: relative;
+    left: 25%;   
+}
+.icon:hover {
+    
+    transform: scale(1.2);
+    transition: 0.5s ease-out;
+}
 footer{
     position: fixed;
     bottom: 0;
@@ -136,6 +146,7 @@ footer{
     padding: 20px;
     text-align: center;
    }
+
 
 
  
