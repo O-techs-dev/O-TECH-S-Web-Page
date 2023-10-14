@@ -132,17 +132,18 @@ text-align: left;
  
  .click{
     line-height: 1;
-    font-size: 200%;
+    font-size: 100%;
     font-weight: 250%;
     color: red;
      text-decoration: none;
  }
 .click-em{
   line-height: 1;
-    font-size: 150%;
+    font-size: 120%;
     font-weight: 250%;
     color: red;
     text-decoration: none;
+}
 .Contact{
     font-size: 75%;
 }
